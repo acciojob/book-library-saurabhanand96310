@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	Background color: #f8f8f8
+}
+.book-library{
+	Background color: #ffffff;
+}
+.header{
+	text-align:center;
+}
+hr{
+	height:10px;
+	background-color:white;
+}
+.book{
+	
+}
+.Author{
+	color: #777777
+}
+.Price{
+	background-color:#2ecc71;
+	text-align:center;
+}
