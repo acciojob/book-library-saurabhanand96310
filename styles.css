@@ -19,7 +19,8 @@ hr{
 .Author{
 	color: #777777
 }
-.Price{
+div.Price{
+	color:rgb(255, 255, 255) ;
 	background-color:#2ecc71;
 	text-align:center;
 }
